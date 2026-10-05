@@ -1,3 +1,5 @@
+## 📦 ARCHIVED - Project completed. No further development planned.
+
 # 🎬 Netflix Clone - React 19
 
 Тестовое веб-приложение в стиле Netflix, созданное с использованием **React 19**, **TypeScript** и **Vite**. Проект разработан на основе курса ["REACT 19 с НУЛЯ за 2 часа — ПОЛНЫЙ КУРС 2025!"](https://www.youtube.com/watch?v=UC2vnwCY4T4) в целях обучения.
